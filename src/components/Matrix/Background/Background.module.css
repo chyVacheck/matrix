@@ -1,0 +1,11 @@
+.main {
+  z-index: -1;
+  display: block;
+  line-height: 0;
+  position: absolute;
+  width: 101%;
+  height: 101%;
+  top: -0.5%;
+  left: -0.5%;
+  background-color: rgb(0, 0, 0);
+}
